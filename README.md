@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # ubiquits-products
 
-
+You an visit deployed version of this project: [Here](https://ukj.lv)
